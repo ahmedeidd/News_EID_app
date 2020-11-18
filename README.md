@@ -4,9 +4,9 @@ It's a flutter application that displays news by Using BLoc Pattern and JSON API
 
 ## some vidoes
 <!-- record_1 -->
-![original Design](https://github.com/ahmedeidd/News_EID_app/blob/master/screenshots/record_1.gif "Design")
+![original Design](https://github.com/ahmedeidd/News_EID_app/blob/main/screenshots/record_1.gif "Design")
 <!-- record_2 -->
-![original Design](https://github.com/ahmedeidd/News_EID_app/blob/master/screenshots/record_2.gif "Design")
+![original Design](https://github.com/ahmedeidd/News_EID_app/blob/main/screenshots/record_2.gif "Design")
 
 
 ## Screenshots
